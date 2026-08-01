@@ -43,7 +43,8 @@
 // YOUR CODE BELOW — remove the // symbols from the scaffold and fill it in
 // =============================================================================
 
-
+#include <iostream>
+using namespace std;
 
 bool isValidScore(int score) {
     return score >= 0 && score <= 100;
